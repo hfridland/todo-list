@@ -48,8 +48,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hfridland/todo-list)
-- Live Site URL: [Add live site URL here](https://hfridland.github.io/todo-list)
+- [Sources URL](https://github.com/hfridland/todo-list)
+- [Live Site URL](https://hfridland.github.io/todo-list)
 
 ## My process
 
