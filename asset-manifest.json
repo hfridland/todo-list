@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hfridland/todo-list/static/css/main.38db72c6.css",
-    "main.js": "/hfridland/todo-list/static/js/main.cde07bdf.js",
-    "static/media/bg-desktop-light.jpg": "/hfridland/todo-list/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
-    "static/media/bg-desktop-dark.jpg": "/hfridland/todo-list/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
-    "index.html": "/hfridland/todo-list/index.html",
-    "static/media/icon-sun.svg": "/hfridland/todo-list/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
-    "static/media/icon-moon.svg": "/hfridland/todo-list/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
-    "static/media/icon-cross.svg": "/hfridland/todo-list/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
-    "main.38db72c6.css.map": "/hfridland/todo-list/static/css/main.38db72c6.css.map",
-    "main.cde07bdf.js.map": "/hfridland/todo-list/static/js/main.cde07bdf.js.map"
+    "main.css": "/todo-list/static/css/main.50b03652.css",
+    "main.js": "/todo-list/static/js/main.024c81f0.js",
+    "static/media/bg-desktop-light.jpg": "/todo-list/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/todo-list/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/todo-list/index.html",
+    "static/media/icon-sun.svg": "/todo-list/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
+    "static/media/icon-moon.svg": "/todo-list/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "static/media/icon-cross.svg": "/todo-list/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
+    "main.50b03652.css.map": "/todo-list/static/css/main.50b03652.css.map",
+    "main.024c81f0.js.map": "/todo-list/static/js/main.024c81f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.38db72c6.css",
-    "static/js/main.cde07bdf.js"
+    "static/css/main.50b03652.css",
+    "static/js/main.024c81f0.js"
   ]
 }
