@@ -1,0 +1,43 @@
+body[data-theam='theamlight'] {
+  --main-background: #fafafa; //hsl(0, 0%, 98%)
+  --bg-header-image: url('/images/bg-desktop-light.jpg');
+  --create-todo-backgroud: #ffffff;
+  --create-todo-line-color: #e3e4f1;
+  --create-todo-font-color: #9495a5;
+  --show-todo-background: #ffffff;
+  --todo-border-color: #e3e4f1;
+  --todo-text-color: #494c6b;
+  --active-action: #3a7cfd;
+
+  --btns-line-color: #e4e5f1; // hsl(236, 33%, 92%)
+  --placeholder-font-color: #484b6a; // hsl(235, 19%, 35%)
+
+  --very-light-gray: #fafafa; // hsl(0, 0%, 98%)
+  --very-light-grayish-blue: #e4e5f1; // hsl(236, 33%, 92%)
+  --light-grayish-blue: #d2d3db; // hsl(233, 11%, 84%)
+  --dark-grayish-blue: #9394a5; // hsl(236, 9%, 61%)
+  --very-dark-grayish-blue: #484b6a; // hsl(235, 19%, 35%)
+}
+
+body[data-theam='theamdark'] {
+  --main-background: #171823; //hsl(235, 21%, 11%)
+  --bg-header-image: url('/images/bg-desktop-dark.jpg');
+  --create-todo-backgroud: #25273d;
+  --create-todo-line-color: #767992;
+  --create-todo-font-color: #767992;
+  --show-todo-background: #494c6b;
+  --todo-border-color: #393a4b;
+  --todo-text-color: #c8cbe7;
+  --active-action: #3a7cfd;
+
+  --btns-line-color: #25273c; // hsl(235, 24%, 19%)
+  --placeholder-font-color: #393a4c; // hsl(237, 14%, 26%)
+
+  --very-dark-blue: #161722; //hsl(235, 21%, 11%)
+  --very-dark-desaturated-blue: #25273c; // hsl(235, 24%, 19%)
+  --light-grayish-blue: #cacde8; // hsl(234, 39%, 85%)
+  --light-grayish-blue-hover: #e4e5f1; // hsl(236, 33%, 92%)
+  --dark-grayish-blue: #777a92; // hsl(234, 11%, 52%)
+
+  --very-dark-grayish-blue: #4d5066; // hsl(233, 14%, 35%)
+}
